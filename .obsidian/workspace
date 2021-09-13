@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "58ec17d17701b7f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8983b1ae48254a9",
+        "type": "leaf",
+        "dimension": 47.44079449961803,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blender-tips.md",
+            "mode": "source"
+          }
+        },
+        "group": "bb246756e8d59917"
+      },
+      {
+        "id": "bb1a54eeb734b486",
+        "type": "leaf",
+        "dimension": 52.55920550038197,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Blender-tips.md",
+            "mode": "preview"
+          }
+        },
+        "group": "bb246756e8d59917"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "390ffa31a0eb83f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b1c9e9efbab8ac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09bb844e3076af5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb91150e204ae611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224
+  },
+  "right": {
+    "id": "d162035f0c243425",
+    "type": "split",
+    "children": [
+      {
+        "id": "6deb1507ecc96d66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13be244e4efd6614",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blender-tips.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f8983b1ae48254a9",
+  "lastOpenFiles": [
+    "Blender-tips.md",
+    "Git.md",
+    "Markdown-Cheatsheet.md",
+    "Recording 20210911101521.webm",
+    "Images/BlenderImages/Pasted image 20210911090302.png",
+    "Images/BlenderImages/Pasted image 20210911092435.png",
+    "MD_CheatSheet.md",
+    "Untitled.md",
+    "Pasted image 20210911090302.png",
+    "Images/Pasted image 20210911090302.png"
+  ]
+}

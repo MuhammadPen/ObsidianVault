@@ -1,0 +1,12 @@
+{
+  "spellcheck": true,
+  "showLineNumber": false,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "repo",
+    "Rebasing",
+    "init",
+    "url",
+    "Blockquotes"
+  ]
+}
