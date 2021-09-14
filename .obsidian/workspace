@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 47.44079449961803,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RC_Ideas/Gameplay Ideas.md",
+            "mode": "source"
+          }
         },
         "group": "bb246756e8d59917"
       },
@@ -18,8 +21,11 @@
         "type": "leaf",
         "dimension": 52.55920550038197,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "RC_Ideas/Gameplay Ideas.md",
+            "mode": "preview"
+          }
         },
         "group": "bb246756e8d59917"
       }
@@ -77,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RC_Ideas/Gameplay Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +103,8 @@
   },
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
+    "RC_Ideas/Gameplay Ideas.md",
+    "Untitled.md",
     "cardsFinal.png",
     "Blender-tips.md",
     "Git.md",
@@ -103,8 +112,6 @@
     "Recording 20210911101521.webm",
     "Images/BlenderImages/Pasted image 20210911090302.png",
     "Images/BlenderImages/Pasted image 20210911092435.png",
-    "MD_CheatSheet.md",
-    "Untitled.md",
-    "Pasted image 20210911090302.png"
+    "MD_CheatSheet.md"
   ]
 }
