@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 47.44079449961803,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Blender-tips.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "bb246756e8d59917"
       },
@@ -21,11 +18,8 @@
         "type": "leaf",
         "dimension": 52.55920550038197,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Blender-tips.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "bb246756e8d59917"
       }
@@ -83,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender-tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +96,7 @@
   },
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
+    "cardsFinal.png",
     "Blender-tips.md",
     "Git.md",
     "Markdown-Cheatsheet.md",
@@ -111,7 +105,6 @@
     "Images/BlenderImages/Pasted image 20210911092435.png",
     "MD_CheatSheet.md",
     "Untitled.md",
-    "Pasted image 20210911090302.png",
-    "Images/Pasted image 20210911090302.png"
+    "Pasted image 20210911090302.png"
   ]
 }
