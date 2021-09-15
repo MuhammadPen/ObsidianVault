@@ -10,7 +10,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Unity/Efficient Workflows.md",
+=======
+            "file": "GameIdeas.md",
+>>>>>>> Stashed changes
             "mode": "source"
           }
         },
@@ -23,7 +27,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Unity/Efficient Workflows.md",
+=======
+            "file": "GameIdeas.md",
+>>>>>>> Stashed changes
             "mode": "preview"
           }
         },
@@ -83,7 +91,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Unity/Efficient Workflows.md",
+=======
+                "file": "GameIdeas.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +115,28 @@
   },
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Unity/Efficient Workflows.md",
     "Multi Scene.md",
     "Untitled.md",
     "RC_Ideas/Gameplay Ideas.md",
     "cardsFinal.png",
     "Blender-tips.md",
+=======
+    "GameIdeas.md",
+    "Untitled.md",
+>>>>>>> Stashed changes
     "Git.md",
+    "Houdini.md",
+    "Blender-tips.md",
     "Markdown-Cheatsheet.md",
+    "cardsFinal.png",
     "Recording 20210911101521.webm",
+<<<<<<< Updated upstream
     "Images/BlenderImages/Pasted image 20210911090302.png"
+=======
+    "Images/BlenderImages/Pasted image 20210911090302.png",
+    "Images/BlenderImages/Pasted image 20210911092435.png"
+>>>>>>> Stashed changes
   ]
 }
