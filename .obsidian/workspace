@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
+            "file": "VISIT DHA PHASE 6 OFFICE.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
+            "file": "VISIT DHA PHASE 6 OFFICE.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "VISIT DHA PHASE 6 OFFICE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,7 @@
   },
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
+    "Untitled.md",
     "Git.md",
     "GameIdeas.md",
     "Unity/Materials.md",
@@ -111,7 +112,6 @@
     "RC_RACE/TCCA Car structure.md",
     "RC_RACE/Multiscene workflow implementation.md",
     "Blender/Blender-tips.md",
-    "Houdini.md",
-    "Markdown-Cheatsheet.md"
+    "Houdini.md"
   ]
 }
