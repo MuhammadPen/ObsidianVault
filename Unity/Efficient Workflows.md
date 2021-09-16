@@ -33,6 +33,11 @@ We are either write custom scripts that handle scene loading in such a way that 
 
 We can simple merge the scene after the developers have done working on them. There shouldn't be any issues with merging because each scene contains unique items.
 
+
+##### 3. For Cross Screen Referencing
+
+we can create duplicates of referenced game objects in both scenes if they are not performance intensive.
+
 ---
 
 ## Using Prefabs
@@ -51,4 +56,4 @@ Then they do all their work inside the prefab editor instead of the scene editor
 Gets rid of issues of scene merging all together. The developer is no longer working in a scene, instead they are working in a prefab that will be packaged separately.
 
 ### Cons
-[TODO]
+The prefabs need to be instantiated when required.
