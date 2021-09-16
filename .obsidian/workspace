@@ -8,9 +8,10 @@
         "type": "leaf",
         "dimension": 47.44079449961803,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/UnityImages/Pasted image 20210916152213.png"
+            "file": "Git.md",
+            "mode": "source"
           }
         },
         "group": "bb246756e8d59917"
@@ -20,9 +21,10 @@
         "type": "leaf",
         "dimension": 52.55920550038197,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Images/UnityImages/Pasted image 20210916152213.png"
+            "file": "Git.md",
+            "mode": "preview"
           }
         },
         "group": "bb246756e8d59917"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/UnityImages/Pasted image 20210916152213.png",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
   },
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
-    "Pasted image 20210916152213.png",
     "Git.md",
+    "GameIdeas.md",
+    "Unity/Materials.md",
     "Unity/Efficient Workflows.md",
-    "Untitled.md",
+    "RC_RACE/Gameplay Ideas.md",
+    "RC_RACE/TCCA Car structure.md",
     "RC_RACE/Multiscene workflow implementation.md",
-    "Images/UnityImages/Pasted image 20210915120218.png",
-    "Images/Pasted image 20210915120218.png",
-    "Images/BlenderImages/Pasted image 20210911092435.png",
-    "Pasted image 20210915120218.png",
-    "RC_RACE/Untitled.md"
+    "Blender/Blender-tips.md",
+    "Houdini.md",
+    "Markdown-Cheatsheet.md"
   ]
 }
