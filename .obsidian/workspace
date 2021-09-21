@@ -10,7 +10,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "ExcaliburJS/Actors.md",
+=======
+            "file": "RC_RACE/Gameplay Ideas.md",
+>>>>>>> main
             "mode": "source"
           }
         },
@@ -23,7 +27,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "ExcaliburJS/Actors.md",
+=======
+            "file": "RC_RACE/Gameplay Ideas.md",
+>>>>>>> main
             "mode": "preview"
           }
         },
@@ -83,7 +91,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "ExcaliburJS/Actors.md",
+=======
+                "file": "RC_RACE/Gameplay Ideas.md",
+>>>>>>> main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +115,7 @@
   },
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "ExcaliburJS/Actors.md",
     "ExcaliburJS/Notes.md",
     "Images/ExcaliburImages/Pasted image 20210920193531.png",
@@ -113,5 +126,17 @@
     "RC_RACE/Multiscene workflow implementation.md",
     "RC_RACE/Gameplay Ideas.md",
     "Unity/Efficient Workflows.md"
+=======
+    "RC_RACE/Gameplay Ideas.md",
+    "Untitled.md",
+    "GameIdeas.md",
+    "Unity/Efficient Workflows.md",
+    "Blender/Blender-tips.md",
+    "VISIT DHA PHASE 6 OFFICE.md",
+    "Markdown-Cheatsheet.md",
+    "Git.md",
+    "RC_RACE/TCCA Car structure.md",
+    "RC_RACE/Multiscene workflow implementation.md"
+>>>>>>> main
   ]
 }
