@@ -10,11 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "ExcaliburJS/Actors.md",
-=======
-            "file": "RC_RACE/Gameplay Ideas.md",
->>>>>>> main
+            "file": "RC_RACE/TCCA Car structure.md",
             "mode": "source"
           }
         },
@@ -27,11 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "ExcaliburJS/Actors.md",
-=======
-            "file": "RC_RACE/Gameplay Ideas.md",
->>>>>>> main
+            "file": "RC_RACE/TCCA Car structure.md",
             "mode": "preview"
           }
         },
@@ -75,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 315
   },
   "right": {
     "id": "d162035f0c243425",
@@ -91,11 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "ExcaliburJS/Actors.md",
-=======
-                "file": "RC_RACE/Gameplay Ideas.md",
->>>>>>> main
+                "file": "RC_RACE/TCCA Car structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,28 +103,15 @@
   },
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "ExcaliburJS/Actors.md",
-    "ExcaliburJS/Notes.md",
-    "Images/ExcaliburImages/Pasted image 20210920193531.png",
-    "Pasted image 20210920193646.png",
-    "Actor.md",
-    "Untitled.md",
     "RC_RACE/TCCA Car structure.md",
+    "Unity/Materials.md",
+    "Markdown-Cheatsheet.md",
     "RC_RACE/Multiscene workflow implementation.md",
-    "RC_RACE/Gameplay Ideas.md",
-    "Unity/Efficient Workflows.md"
-=======
     "RC_RACE/Gameplay Ideas.md",
     "Untitled.md",
     "GameIdeas.md",
     "Unity/Efficient Workflows.md",
     "Blender/Blender-tips.md",
-    "VISIT DHA PHASE 6 OFFICE.md",
-    "Markdown-Cheatsheet.md",
-    "Git.md",
-    "RC_RACE/TCCA Car structure.md",
-    "RC_RACE/Multiscene workflow implementation.md"
->>>>>>> main
+    "VISIT DHA PHASE 6 OFFICE.md"
   ]
 }
