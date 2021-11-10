@@ -9,6 +9,8 @@
     "url",
     "Blockquotes",
     "lifecycle",
-    "parallaxing"
+    "parallaxing",
+    "GameController",
+    "QuestMaster"
   ]
 }

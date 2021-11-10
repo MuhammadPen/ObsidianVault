@@ -4,30 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "f8983b1ae48254a9",
+        "id": "4a13724244b45fb8",
         "type": "leaf",
-        "dimension": 47.44079449961803,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "RC_RACE/Gameplay Ideas.md",
+=======
+            "file": "Unity/Questing.md",
+>>>>>>> a8e0631 (sdfsd)
             "mode": "source"
           }
         },
-        "group": "bb246756e8d59917"
+        "group": "59e417fb648559d5"
       },
       {
-        "id": "bb1a54eeb734b486",
+        "id": "3a51cb2cc9c02771",
         "type": "leaf",
-        "dimension": 52.55920550038197,
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "RC_RACE/Gameplay Ideas.md",
+=======
+            "file": "Unity/Questing.md",
+>>>>>>> a8e0631 (sdfsd)
             "mode": "preview"
           }
         },
-        "group": "bb246756e8d59917"
+        "group": "59e417fb648559d5"
       }
     ],
     "direction": "vertical"
@@ -67,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 224
   },
   "right": {
     "id": "d162035f0c243425",
@@ -83,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "RC_RACE/Gameplay Ideas.md",
+=======
+                "file": "Unity/Questing.md",
+>>>>>>> a8e0631 (sdfsd)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +111,33 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "f8983b1ae48254a9",
   "lastOpenFiles": [
     "RC_RACE/Gameplay Ideas.md",
     "Programming/Streams.md",
     "Markdown-Cheatsheet.md",
     "Programming/serialization.md",
+=======
+  "active": "4a13724244b45fb8",
+  "lastOpenFiles": [
+    "Unity/Questing.md",
+    "Pasted image 20211013191954.png",
+    "Unity/Untitled.md",
+    "ExcaliburJS/Actors.md",
+    "ExcaliburJS/Notes.md",
+    "Git.md",
+>>>>>>> a8e0631 (sdfsd)
     "GameIdeas.md",
     "Unity/Materials.md",
     "Unity/Game controller.md",
     "Unity/Efficient Workflows.md",
+<<<<<<< HEAD
     "RC_RACE/TCCA Car structure.md",
     "RC_RACE/Multiscene workflow implementation.md"
+=======
+    "Unity/Materials.md",
+    "Unity/Game controller.md"
+>>>>>>> a8e0631 (sdfsd)
   ]
 }
