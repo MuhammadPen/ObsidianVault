@@ -11,6 +11,8 @@
     "lifecycle",
     "parallaxing",
     "GameController",
-    "QuestMaster"
+    "QuestMaster",
+    "Pseudocode",
+    "pseudocode"
   ]
 }

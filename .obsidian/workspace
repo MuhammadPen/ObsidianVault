@@ -1,53 +1,32 @@
 {
   "main": {
-    "id": "58ec17d17701b7f1",
+    "id": "14d329cadeb9850f",
     "type": "split",
     "children": [
       {
-        "id": "4a13724244b45fb8",
+        "id": "783f3c42d08b7e4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "RC_RACE/Gameplay Ideas.md",
-=======
-            "file": "Unity/Questing.md",
->>>>>>> a8e0631 (sdfsd)
+            "file": "Programming/problem solving.md",
             "mode": "source"
           }
-        },
-        "group": "59e417fb648559d5"
-      },
-      {
-        "id": "3a51cb2cc9c02771",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "RC_RACE/Gameplay Ideas.md",
-=======
-            "file": "Unity/Questing.md",
->>>>>>> a8e0631 (sdfsd)
-            "mode": "preview"
-          }
-        },
-        "group": "59e417fb648559d5"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "390ffa31a0eb83f1",
+    "id": "0eac3f636854396c",
     "type": "split",
     "children": [
       {
-        "id": "9b1c9e9efbab8ac8",
+        "id": "bf0eb903b2e5489a",
         "type": "tabs",
         "children": [
           {
-            "id": "b09bb844e3076af5",
+            "id": "c872e69d8381f3ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +34,7 @@
             }
           },
           {
-            "id": "bb91150e204ae611",
+            "id": "096430c2cb87777b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,33 +52,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 300
   },
   "right": {
-    "id": "d162035f0c243425",
+    "id": "bb6867bd56a261ef",
     "type": "split",
     "children": [
       {
-        "id": "6deb1507ecc96d66",
+        "id": "2b86d41cb1a92421",
         "type": "tabs",
         "children": [
           {
-            "id": "13be244e4efd6614",
+            "id": "e0b6ee07592b51fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "RC_RACE/Gameplay Ideas.md",
-=======
-                "file": "Unity/Questing.md",
->>>>>>> a8e0631 (sdfsd)
+                "file": "Programming/problem solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -111,33 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "f8983b1ae48254a9",
+  "active": "783f3c42d08b7e4e",
   "lastOpenFiles": [
-    "RC_RACE/Gameplay Ideas.md",
-    "Programming/Streams.md",
-    "Markdown-Cheatsheet.md",
-    "Programming/serialization.md",
-=======
-  "active": "4a13724244b45fb8",
-  "lastOpenFiles": [
-    "Unity/Questing.md",
-    "Pasted image 20211013191954.png",
-    "Unity/Untitled.md",
-    "ExcaliburJS/Actors.md",
-    "ExcaliburJS/Notes.md",
-    "Git.md",
->>>>>>> a8e0631 (sdfsd)
-    "GameIdeas.md",
-    "Unity/Materials.md",
-    "Unity/Game controller.md",
-    "Unity/Efficient Workflows.md",
-<<<<<<< HEAD
-    "RC_RACE/TCCA Car structure.md",
-    "RC_RACE/Multiscene workflow implementation.md"
-=======
-    "Unity/Materials.md",
-    "Unity/Game controller.md"
->>>>>>> a8e0631 (sdfsd)
+    "Programming/problem solving.md",
+    "Untitled.md"
   ]
 }
