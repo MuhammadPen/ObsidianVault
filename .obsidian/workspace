@@ -1,14 +1,23 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "72c8e953874ed94e",
     "type": "split",
     "children": [
       {
         "id": "1bf5f753c5afe7fd",
+=======
+    "id": "14d329cadeb9850f",
+    "type": "split",
+    "children": [
+      {
+        "id": "783f3c42d08b7e4e",
+>>>>>>> 06e311d52960ce452b01abaaa75c9a0cd12923ca
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Programming/React and React Native/Components and Props.md",
             "mode": "source"
           }
@@ -26,11 +35,18 @@
           }
         },
         "group": "8e0e787125e3ab51"
+=======
+            "file": "Programming/problem solving.md",
+            "mode": "source"
+          }
+        }
+>>>>>>> 06e311d52960ce452b01abaaa75c9a0cd12923ca
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "79a113bf18b23435",
     "type": "split",
     "children": [
@@ -40,6 +56,17 @@
         "children": [
           {
             "id": "7d789a38e738353f",
+=======
+    "id": "0eac3f636854396c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0eb903b2e5489a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c872e69d8381f3ee",
+>>>>>>> 06e311d52960ce452b01abaaa75c9a0cd12923ca
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +74,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "9bf6258cd726b0fe",
+=======
+            "id": "096430c2cb87777b",
+>>>>>>> 06e311d52960ce452b01abaaa75c9a0cd12923ca
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,6 +99,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "8271546e9730aca3",
     "type": "split",
     "children": [
@@ -77,11 +109,26 @@
         "children": [
           {
             "id": "97cc7a3189196a60",
+=======
+    "id": "bb6867bd56a261ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b86d41cb1a92421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0b6ee07592b51fe",
+>>>>>>> 06e311d52960ce452b01abaaa75c9a0cd12923ca
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Programming/React and React Native/Components and Props.md",
+=======
+                "file": "Programming/problem solving.md",
+>>>>>>> 06e311d52960ce452b01abaaa75c9a0cd12923ca
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +146,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "1bf5f753c5afe7fd",
   "lastOpenFiles": [
     "Programming/React and React Native/Components and Props.md",
@@ -111,5 +159,11 @@
     "Unity/Materials.md",
     "Unity/Game controller.md",
     "Unity/Efficient Workflows.md"
+=======
+  "active": "783f3c42d08b7e4e",
+  "lastOpenFiles": [
+    "Programming/problem solving.md",
+    "Untitled.md"
+>>>>>>> 06e311d52960ce452b01abaaa75c9a0cd12923ca
   ]
 }
