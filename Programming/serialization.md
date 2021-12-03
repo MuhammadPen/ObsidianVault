@@ -7,4 +7,4 @@
 
 
 ##### Translating object model to structured data
-Simple use custom encoder that reads your object/data and transforms it into a different format (CSV, XML etc).
+Simply use custom encoder that reads your object/data and transforms it into a different format (CSV, XML etc).

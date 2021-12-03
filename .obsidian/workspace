@@ -1,53 +1,45 @@
 {
   "main": {
-    "id": "58ec17d17701b7f1",
+    "id": "72c8e953874ed94e",
     "type": "split",
     "children": [
       {
-        "id": "4a13724244b45fb8",
+        "id": "1bf5f753c5afe7fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "RC_RACE/Gameplay Ideas.md",
-=======
-            "file": "Unity/Questing.md",
->>>>>>> a8e0631 (sdfsd)
+            "file": "Programming/React and React Native/Components and Props.md",
             "mode": "source"
           }
         },
-        "group": "59e417fb648559d5"
+        "group": "8e0e787125e3ab51"
       },
       {
-        "id": "3a51cb2cc9c02771",
+        "id": "3e193ed3a7bd4a94",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "RC_RACE/Gameplay Ideas.md",
-=======
-            "file": "Unity/Questing.md",
->>>>>>> a8e0631 (sdfsd)
+            "file": "Programming/React and React Native/Components and Props.md",
             "mode": "preview"
           }
         },
-        "group": "59e417fb648559d5"
+        "group": "8e0e787125e3ab51"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "390ffa31a0eb83f1",
+    "id": "79a113bf18b23435",
     "type": "split",
     "children": [
       {
-        "id": "9b1c9e9efbab8ac8",
+        "id": "016d44b8fe3341aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b09bb844e3076af5",
+            "id": "7d789a38e738353f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +47,12 @@
             }
           },
           {
-            "id": "bb91150e204ae611",
+            "id": "9bf6258cd726b0fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "props",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,33 +65,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 300
   },
   "right": {
-    "id": "d162035f0c243425",
+    "id": "8271546e9730aca3",
     "type": "split",
     "children": [
       {
-        "id": "6deb1507ecc96d66",
+        "id": "80682e0db97d7b31",
         "type": "tabs",
         "children": [
           {
-            "id": "13be244e4efd6614",
+            "id": "97cc7a3189196a60",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "RC_RACE/Gameplay Ideas.md",
-=======
-                "file": "Unity/Questing.md",
->>>>>>> a8e0631 (sdfsd)
+                "file": "Programming/React and React Native/Components and Props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -111,33 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "f8983b1ae48254a9",
+  "active": "1bf5f753c5afe7fd",
   "lastOpenFiles": [
-    "RC_RACE/Gameplay Ideas.md",
-    "Programming/Streams.md",
-    "Markdown-Cheatsheet.md",
+    "Programming/React and React Native/Components and Props.md",
     "Programming/serialization.md",
-=======
-  "active": "4a13724244b45fb8",
-  "lastOpenFiles": [
+    "Programming/Streams.md",
+    "RC_RACE/TCCA Car structure.md",
+    "RC_RACE/Multiscene workflow implementation.md",
+    "RC_RACE/Gameplay Ideas.md",
     "Unity/Questing.md",
-    "Pasted image 20211013191954.png",
-    "Unity/Untitled.md",
-    "ExcaliburJS/Actors.md",
-    "ExcaliburJS/Notes.md",
-    "Git.md",
->>>>>>> a8e0631 (sdfsd)
-    "GameIdeas.md",
     "Unity/Materials.md",
     "Unity/Game controller.md",
-    "Unity/Efficient Workflows.md",
-<<<<<<< HEAD
-    "RC_RACE/TCCA Car structure.md",
-    "RC_RACE/Multiscene workflow implementation.md"
-=======
-    "Unity/Materials.md",
-    "Unity/Game controller.md"
->>>>>>> a8e0631 (sdfsd)
+    "Unity/Efficient Workflows.md"
   ]
 }
